@@ -2,6 +2,8 @@
 
 I recently had the privilege of attending a remarkable 8-hour workshop on Prompt Engineering and ChatGPT. Led by Mr. Vimal Daga at LinuxWorld Informatics Pvt Ltd, the session was a truly enlightening experience. I gained valuable insights into optimizing the performance of AI models like ChatGPT by employing effective prompt engineering techniques. The workshop pushed me to explore the intricacies of generating high-quality responses and equipped me with practical skills that I can readily apply in my professional endeavors.
 
+https://chat.openai.com/share/5dc0b419-5535-4e52-a77d-ac6e5d7792c7
+
 Here's a summary of process:
 
 -I expressed my interest in brainstorming real use case-based applications for an industry project that contributes to a community cause.
